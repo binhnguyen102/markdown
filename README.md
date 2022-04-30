@@ -11,12 +11,12 @@
 ![anh](https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/277178252_3009652899345664_6213376923791461180_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=78cspMS86TIAX9cWNgz&_nc_ht=scontent.fdad2-1.fna&oh=00_AT-zWAXJM0Y1sXJ7Xz2DZZ5GgjoDchmlYeTloObl4F7ghA&oe=62702C38)
 
 
-### ==> link Facebook    [ 👉click vao đây](https://www.facebook.com/binhnguyen070690/)
+### ==> link Facebook    [ 👉click vào đây](https://www.facebook.com/binhnguyen070690/)
   
 
-## ==> in đ𝐚̣̂𝐦 𝐯𝐚̀ 𝐧𝐠𝐢𝐞̂𝐧𝐠 react
+## 👉 in đ𝐚̣̂𝐦 𝐯𝐚̀ 𝐧𝐠𝐢𝐞̂𝐧𝐠 
 
-**ReactJS***  là một opensource được phát triển bởi Facebook, ra mắt vào năm 2013, bản thân nó là một thư viện Javascript được dùng để để xây dựng các tương tác với các thành phần trên website. Một trong những điểm nổi bật nhất của ReactJS đó là việc render dữ liệu không chỉ thực hiện được trên tầng Server mà còn ở dưới Client nữa.
+***ReactJS***  là một opensource được phát triển bởi Facebook, ra mắt vào năm 2013, bản thân nó là một thư viện Javascript được dùng để để xây dựng các tương tác với các thành phần trên website. Một trong những điểm nổi bật nhất của ReactJS đó là việc render dữ liệu không chỉ thực hiện được trên tầng Server mà còn ở dưới Client nữa.
 
 ## 👉𝐏𝐚𝐫𝐚𝐠𝐫𝐚𝐩𝐡
 ```
