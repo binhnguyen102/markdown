@@ -54,3 +54,5 @@ alt="VKU" width="240" height="180" border="10" /></a>
 ```sh
  ==> Bấm vào Icon
 ```
+
+[![](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
