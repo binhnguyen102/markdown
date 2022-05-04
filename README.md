@@ -11,7 +11,7 @@
  
 ---
 ##  👉Image:
-![anh](https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/277178252_3009652899345664_6213376923791461180_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=78cspMS86TIAX9cWNgz&_nc_ht=scontent.fdad2-1.fna&oh=00_AT-zWAXJM0Y1sXJ7Xz2DZZ5GgjoDchmlYeTloObl4F7ghA&oe=62702C38)
+![anh](https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/277178252_3009652899345664_6213376923791461180_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=BYjpFxBr11gAX8JPtg4&_nc_ht=scontent.fdad2-1.fna&oh=00_AT9466DOVLj4Y9R0ztoxq2bZ0CPrSPc52bJVHJrNx-RjmA&oe=62761AF8)
 
 
 ### ==> link Facebook    [ 👉click vào đây](https://www.facebook.com/binhnguyen070690/)
